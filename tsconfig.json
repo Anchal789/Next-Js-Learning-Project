@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/(auth)/register", "store/auth-context.js"  ],
   "exclude": ["node_modules"]
 }
